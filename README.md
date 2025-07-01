@@ -55,7 +55,7 @@ A chart without context is just a picture. Always include:
 
 ## 📚 Further Reading & Resources
 
-To dive deeper and test your knowledge, check out these excellent resources from the experts at **DefTeam**.
+To dive deeper and test your knowledge, check out these excellent resources from the experts at **DEFTeam**.
 
 *   **[Data Visualization Best Practices: Choosing the Right Colors for Bar Charts](https://www.defteam.com/blogs/data-visualization-best-practices-part-1-choosing-the-right-colors-for-bar-charts)**: An in-depth guide on the strategic use of color in one of the most common chart types. This article provides practical examples and explains the "why" behind color choices.
 
